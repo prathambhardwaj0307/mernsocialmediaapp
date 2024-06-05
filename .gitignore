@@ -1,0 +1,55 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Compiled output
+/build
+/dist
+
+# Local development environment
+/.env.local
+/.env.development.local
+/.env.test.local
+/.env.production.local
+
+# Editor directories and files
+/.vscode
+/.idea
+/.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swn
+*.bak
+*.cache
+*.log
+*.dat
+*.out
+*.pid
+*.pid.lock
+*.ini
+*.dll
+*.exe
+*.pdb
+*.user
+*.tmp
+*.bak
+*.cache
+*.csproj.user
+*.pidb
+*.suo
+*.sdf
+*.opensdf
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and crash reports
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/mern_venv/
